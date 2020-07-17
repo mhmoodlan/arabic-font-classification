@@ -1,14 +1,14 @@
 # Arabic Font Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhmoodlan/arabic-font-classification/tree/master/notebooks/arabic_font_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhmoodlan/arabic-font-classification/tree/master/codebase/code/notebooks/arabic_font_classification.ipynb)
 
 ## Acknowledgement
 
-The structure and some fundamental parts of this code are adapted from [Full Stack Deep Learning (FSDL)](https://github.com/full-stack-deep-learning/fsdl-text-recognizer){:target="_blank"}.
+The structure and some fundamental parts of this code are adapted from [Full Stack Deep Learning (FSDL)](https://github.com/full-stack-deep-learning/fsdl-text-recognizer).
 
 ## Demo and Notebook
 
-You can see this project in action in the [accompanied demo and post](https://mhmoodlan.github.io/blog/arabic-font-classification){:target="_blank"}, or run the code in [this notebook](https://github.com/mhmoodlan/arabic-font-classification/tree/master/notebooks/arabic_font_classification.ipynb){:target="_blank"}.
+You can see this project in action in the [accompanied demo and post](https://mhmoodlan.github.io/blog/arabic-font-classification), or run the code in [this notebook](https://github.com/mhmoodlan/arabic-font-classification/tree/master/codebase/code/notebooks/arabic_font_classification.ipynb).
 
 ## Project Structure
 
