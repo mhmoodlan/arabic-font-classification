@@ -1,6 +1,6 @@
 # Arabic Font Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhmoodlan/arabic-font-classification/tree/master/codebase/code/notebooks/arabic_font_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhmoodlan/arabic-font-classification/blob/master/codebase/code/notebooks/arabic_font_classification.ipynb)
 
 ## Acknowledgement
 
@@ -8,7 +8,7 @@ The structure and some fundamental parts of this code are adapted from [Full Sta
 
 ## Demo and Notebook
 
-You can see this project in action in the [accompanied demo and post](https://mhmoodlan.github.io/blog/arabic-font-classification), or run the code in [this notebook](https://github.com/mhmoodlan/arabic-font-classification/tree/master/codebase/code/notebooks/arabic_font_classification.ipynb).
+You can see this project in action in the [accompanied demo and post](https://mhmoodlan.github.io/blog/arabic-font-classification), or run the code in [this notebook](https://github.com/mhmoodlan/arabic-font-classification/blob/master/codebase/code/notebooks/arabic_font_classification.ipynb).
 
 ## Project Structure
 
