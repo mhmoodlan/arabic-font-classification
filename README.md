@@ -36,7 +36,7 @@ To run the code locally:
 2. Fetch and extract data from [releases](https://github.com/mhmoodlan/arabic-font-classification/releases/) to /cloud folder:
 
     ```bash
-    $ wget 'https://github.com/mhmoodlan/arabic-font-classification/releases/download/v1.0/rufa.tar.gz' -O  ./cloud/rufa.tar.gz
+    $ wget 'https://github.com/mhmoodlan/arabic-font-classification/releases/download/v0.1.0/rufa.tar.gz' -O  ./cloud/rufa.tar.gz
     $ cd /cloud && tar -xzf 'rufa.tar.gz'
     ```
 
